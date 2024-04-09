@@ -1,0 +1,229 @@
+[
+    {   "id":1,
+        "account": {
+            "created_date": "2023-07-05T08:58:01.914485Z",
+            "id": 2,
+            "last_modified_date": "2023-07-05T08:58:01.914548Z",
+            "password": "",
+            "username": ""
+		},
+        "proxy": [
+            {
+                "http": "http://192.168.143.101:4016",
+                "https": "http://192.168.143.101:4016"
+            }
+        ],
+        "created_date": "2023-07-13T02:54:24.631712Z",
+        "useChromium": 0,
+        "paramaterChromium":{
+            "service_path": "chromedriver.exe",
+            "binary_location": "C:\\Users\\Administrator\\AppData\\Local\\Chromium\\Application\\chrome.exe"
+        },
+        "listArgument":[
+           
+        ],
+        "listArgumentChromium":[
+           
+        ],
+        "mode":
+		{
+			"id" : 2 ,
+			"name" : "channel",
+            "time_expired": null,
+            "start_time_run":"14:01:00",
+            "range_date": [2,7],
+			"keyword": [
+            ],
+            "page_id": [
+						"https://www.youtube.com/@BaoSuckhoedoisongboyte",
+						"https://www.youtube.com/@rfavietnamese",
+						"https://www.youtube.com/@hoanglinh6868",
+						"https://www.youtube.com/@trannhatphongofficia",
+						"https://www.youtube.com/@bbctiengviet",
+						"https://www.youtube.com/@ngamsuthiNKD",
+						"https://www.youtube.com/@DIEUCANBIET229",
+						"https://www.youtube.com/@BienNienTieuSu",
+						"https://www.youtube.com/@truyenhinh.thoisu",
+						"https://www.youtube.com/@nhatkycuocsong.",
+						"https://www.youtube.com/@Hieu_Biet_Hon",
+						"https://www.youtube.com/@CCTVVlog-vp6lv",
+						"https://www.youtube.com/@anhdungvision2759",
+						"https://www.youtube.com/@vandethegioi",
+						"https://www.youtube.com/@luatsunguyenvandai145",
+                        "https://www.youtube.com/@thoibao-de",
+						"https://www.youtube.com/@TIN3PHUT",
+						"https://www.youtube.com/@khangmediatv",
+						"https://www.youtube.com/@TinMoi24HHDtintuc",
+						"https://www.youtube.com/@TapchiVietTimes",
+						"https://www.youtube.com/@tinnong24h247",
+                        "https://www.youtube.com/@NguoiYeuNuocViet",
+                        "https://www.youtube.com/@TamThucVietAnhChi",
+						"https://www.youtube.com/@ShowbizVIET247",
+						"https://www.youtube.com/@Discoverynewqt",
+                        "https://www.youtube.com/@VOATiengViet",
+						"https://www.youtube.com/@VIETTHANHKTV",
+						"https://www.youtube.com/@HoangJohn",
+						"https://www.youtube.com/@ThayThangVienChuc",
+						"https://www.youtube.com/@changchangtv2",
+						"https://www.youtube.com/@ChangChangTV8",
+						"https://www.youtube.com/@TLDTiengLongDan",
+                        "https://www.youtube.com/@NhanVietTV",
+						"https://www.youtube.com/@maithaihop",
+                        "https://www.youtube.com/@sbtv572",
+						"https://www.youtube.com/@bantinviet",
+                        "https://www.youtube.com/@CTTVTRANDUYCHIEN7",
+                        "https://www.youtube.com/@TINTUC247K",
+                        "https://www.youtube.com/@SBTNOfficial",
+                        "https://www.youtube.com/@VietTan",
+						"https://www.youtube.com/@laylat-nd6vr",
+						"https://www.youtube.com/@ThangLongTv",
+						"https://www.youtube.com/@thanglongtvcong1800",
+                        "https://www.youtube.com/@VIETLIVETV",
+                        "https://www.youtube.com/@PhilDong",
+                        "https://www.youtube.com/@tanthai7336",
+                        "https://www.youtube.com/@vietnewstelevision",
+                        "https://www.youtube.com/@VanHoaNBLV1",
+                        "https://www.youtube.com/@Vietnamtvnews",
+                        "https://www.youtube.com/@tincongdong2559",
+                        "https://www.youtube.com/@N10TV",
+                        "https://www.youtube.com/@Tusachnhokhotanglon",
+                        "https://www.youtube.com/@chienthangsuthat777",
+                        "https://www.youtube.com/@Cuocsongmy22",
+                        "https://www.youtube.com/@noiketnguoitinan",
+                        "https://www.youtube.com/@tiengdan1010",
+                        "https://www.youtube.com/@hQhTV",
+                        "https://www.youtube.com/@tuoitrequocgia2610",
+                        "https://www.youtube.com/@dieucaycaulacbonhabaotudo",
+                        "https://www.youtube.com/@nhabaohanni",
+                        "https://www.youtube.com/@TRELANGTV",
+                        "https://www.youtube.com/@thongluan7747",
+                        "https://www.youtube.com/@TAYNGUYEN24HTV",
+                        "https://www.youtube.com/@TrucDienTV",
+                        "https://www.youtube.com/@TMQ",
+                        "https://www.youtube.com/@ThanhTTAD2",
+                        "https://www.youtube.com/@TiViTuansanOnline",
+                        "https://www.youtube.com/@JBNHVTV",
+                        "https://www.youtube.com/@vietmediainaustralia9913",
+                        "https://www.youtube.com/@luat-khoa",
+                        "https://www.youtube.com/@henvoigiacmaa.cvoinhau5396",
+                        "https://www.youtube.com/@nguyentiendung-bongoaigiao",
+                        "https://www.youtube.com/@seanletv-tiengnoitudo",
+                        "https://www.youtube.com/@BacHuTV",
+						"https://www.youtube.com/@ThoibaoEU",
+						"https://www.youtube.com/@baothoidaimoi",
+						"https://www.youtube.com/@vtcnow",
+                        "https://www.youtube.com/@nhusatx",
+                        "https://www.youtube.com/@NGAONGHEVIETNAM-ck1dr",
+                        "https://www.youtube.com/@nhtvus",
+                        "https://www.youtube.com/@THUTAM160",
+                        "https://www.youtube.com/@VietNews814",
+                        "https://www.youtube.com/@DSFGDFGD936",
+                        "https://www.youtube.com/@phamherostudio7491",
+                        "https://www.youtube.com/@sacmautamlinh",
+                        "https://www.youtube.com/@trietlytinhhoa",
+                        "https://www.youtube.com/@thuyduong-cuocsongonauy7621"
+                ],
+            "max_size_post": 15
+
+		},
+        "last_modified_date": "2023-07-13T02:54:24.738878Z"
+    },
+	{   "id":2,
+        "account": {
+            "created_date": "2023-07-05T08:58:01.914485Z",
+            "id": 2,
+            "last_modified_date": "2023-07-05T08:58:01.914548Z",
+            "password": "",
+            "username": ""
+        },
+        "proxy": [
+            {
+                "http": "http://192.168.143.101:4016",
+                "https": "http://192.168.143.101:4016"
+            }
+        ],
+        "created_date": "2023-07-13T02:54:24.631712Z",
+        "useChromium": 0,
+        "paramaterChromium":{
+            "service_path": "chromedriver.exe",
+            "binary_location": "C:\\Users\\Administrator\\AppData\\Local\\Chromium\\Application\\chrome.exe"
+        },
+        "listArgument":[
+            
+        ],
+        "listArgumentChromium":[
+           
+        ],
+        "mode":
+		{
+			"id" : 4,
+			"name" : "channel",
+            "time_expired": null,
+            "start_time_run":"18:00:00",
+            "range_date": [2,7],
+			"keyword": [
+                "Trọng lú",
+                "Nguyễn Phú Trọng",
+                "Ông Trọng",
+                "Trọng Lẫn",
+                "Tổng Trọng",
+                "Chủ Bí Trọng",
+                "tổng bí thư",
+                "võ văn thưởng",
+                "thưởng con",
+                "Phạm Minh Chính",
+                "Thủ tướng",
+                "Thủ tướng Chính",
+                "ông Chính"
+                
+            ],
+            "page_id": [
+                ],
+            "max_size_post": 20
+
+		},
+        "last_modified_date": "2023-07-13T02:54:24.738878Z"
+    },
+	{   "id":5,
+        "account": {
+            "created_date": "2023-07-05T08:58:01.914485Z",
+            "id": 2,
+            "last_modified_date": "2023-07-05T08:58:01.914548Z",
+            "password": "",
+            "username": ""
+        },
+        "proxy": [
+            {
+                "http": "http://192.168.143.101:4016",
+                "https": "http://192.168.143.101:4016"
+            }
+        ],
+        "created_date": "2023-07-13T02:54:24.631712Z",
+        "useChromium": 0,
+        "paramaterChromium":{
+            "service_path": "chromedriver.exe",
+            "binary_location": "C:\\Users\\Administrator\\AppData\\Local\\Chromium\\Application\\chrome.exe"
+        },
+        "listArgument":[
+           
+        ],
+        "listArgumentChromium":[
+            
+        ],
+        "mode":
+		{
+			"id" : 5,
+			"name" : "channel",
+            "time_expired": null,
+            "start_time_run":"18:00",
+            "range_date": [2,7],
+			"keyword": [
+            ],
+            "page_id": [
+                ],
+            "max_size_post": 20
+
+		},
+        "last_modified_date": "2023-07-13T02:54:24.738878Z"
+    }
+]
